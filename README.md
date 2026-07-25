@@ -356,7 +356,7 @@ Based on the comprehensive dashboard analysis, the following business insights w
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="assets/dashboard.png" alt="Airbnb Data Analytics Dashboard" width="95%">
+  <img src="assets/dashboard.png?v=2" alt="Airbnb Data Analytics Dashboard" width="95%">
 </p>
 
 <p align="center"><em>📊 Interactive Tableau Dashboard — Airbnb Seattle Market Analysis (2016)</em></p>
