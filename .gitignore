@@ -1,0 +1,64 @@
+# ==========================
+# Original Dataset Folder (data is organized in /data)
+# ==========================
+dataset/
+
+# ==========================
+# Tableau & Data Files
+# ==========================
+*.twb.backup
+*.twbr
+*.tde
+*.hyper
+*.tdsx
+*.tfl
+*.tflx
+.temp/
+
+# ==========================
+# OS Generated Files
+# ==========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ==========================
+# IDE & Editor Files
+# ==========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# ==========================
+# Temporary Files
+# ==========================
+*.tmp
+*.temp
+*.log
+~$*
+*.bak
+
+# ==========================
+# Python (if used in future)
+# ==========================
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+# ==========================
+# Node (if used in future)
+# ==========================
+node_modules/
+package-lock.json
